@@ -1,3 +1,1 @@
-# sandbox
-Sandbox course for testing.sdf
-fffffasfdadsfsdf
+This is an unpublished course where curriculum writers can experiment with features of curriculum.io.
