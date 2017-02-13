@@ -1,3 +1,1 @@
-### Welcome to curriculum.io!
-
-This is an unpublished course where curriculum writers can experiment with features of curriculum.io.
+This is an unpublished course where curriculum writers can experiment with features of curriculum.io. You can view this repository [on Github](https://github.com/curriculumio/sandbox) to see how the files and file structure in GitHub is rendered into this course.
