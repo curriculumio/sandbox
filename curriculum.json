@@ -1,1 +1,1 @@
-{"title":"Sandbox","text":"A simple sandbox course that curriculum writers can experiment with.","objective":"learn to contribute to curriculum.io.","topic":"cs"}
+{"title":"Sandbox","text":"A simple sandbox course that curriculum writers can experiment with.","objective":"learn to contribute to curriculum.io.","topic":"cs","path":[{"id":"test","title":"foo","text":"bar","objective":"asdf","addLesson":"","lesson":["foo","bar"]},{"id":"test","title":"yo","text":"","objective":"lakjdfsadlk","addLesson":"","lesson":["foo","bar"]}]}
