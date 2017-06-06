@@ -3,4 +3,7 @@ This is an unpublished course where curriculum writers can experiment with featu
 [Github repository](https://github.com/curriculumio/sandbox)
 
 ---
-@test= foo
+@test: foo
+@asdf: bar
+
+asdfasdf
