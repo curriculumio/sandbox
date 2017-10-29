@@ -1,1 +1,9 @@
-{"title":"Sandboxxx","text":"A simple sandbox course that curriculum writers can experiment with.","objective":"learn to contribute to curriculum.io.","topic":"cs","path":[{"id":"yo","title":"da path","text":"","objective":"for cool kids","addLesson":"","lesson":["asdf","bar","foo"]},{"id":"test","title":"test path","text":"","objective":"","addLesson":"","lesson":["foo","bar","blah"]}],"color":"purple"}
+{
+  "title": "Sandbox",
+  "lesson": [
+    {
+      "url": "first",
+      "title": "First lesson"
+    }
+  ]
+}
